@@ -1,16 +1,16 @@
-### Hi there 👋
+Hi everybody, 👋
 
-<!--
-**nanotart/nanotart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Sedong Hwang and I am a current junior at Brown University. I love solving complex algorithmic problems, experimenting with frontend web development, and building tools. Down below is more information about me!
 
-Here are some ideas to get you started:
+- 🎯 Working on several side projects!
+- 🌱 Looking for a summer 2023 internship in small startups or established companies :)
+- 📚 Currently reading 1 book/week
+- 😄 Pronouns: he/him
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me: 
+     - Email: sedong_hwang@brown.edu 
+     - LinkedIn: https://www.linkedin.com/in/sedong-hwang-376b31208/
+     
+- 🎶 Fun fact: I love to play the cello which you can hear below :)
+     - Instagram: @sedong_cello
+     - Youtube: shorturl.at/adlO5
