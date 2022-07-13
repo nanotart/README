@@ -1,8 +1,8 @@
 Hi everybody, 👋
 
-My name is Sedong Hwang and I am a current junior at Brown University. I love solving complex algorithmic problems, experimenting with frontend web development, and building tools. Down below is more information about me!
+My name is Sedong Hwang and I am a current junior at Brown University. I love solving complex algorithmic problems, experimenting with frontend web development, and building tools. Down below is more information about me:
 
-- 🎯 Working on several side projects!
+- 🎯 Working on several side projects
 - 🌱 Looking for a summer 2023 internship in small startups or established companies :)
 - 📚 Currently reading 1 book/week
 - 😄 Pronouns: he/him
