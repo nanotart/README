@@ -13,4 +13,4 @@ My name is Sedong Hwang and I am a current junior at Brown University. I love so
      
 - 🎶 Fun fact: I love to play the cello which you can hear below :)
      - Instagram: @sedong_cello
-     - Youtube: shorturl.at/adlO5
+     - Youtube: https://www.youtube.com/channel/UC-5t-iTTrQYRp4QVciOsshg
