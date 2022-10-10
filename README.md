@@ -4,7 +4,7 @@ My name is Sedong Hwang and I am a current junior at Brown University. I love so
 
 - 🎯 Working on several side projects
 - 🌱 Looking for a summer 2023 internship in small startups or established companies :)
-- 📚 Currently reading 1 book/week
+- 📚 I love reading, playing basketball, and being around people
 - 😄 Pronouns: he/him
 
 - 📫 How to reach me: 
