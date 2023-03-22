@@ -1,11 +1,10 @@
 Hi everybody, 👋
 
-My name is Sedong Hwang and I am a current junior at Brown University. I love solving complex problems, experimenting with frontend development, and building tools! Down below is more information about me:
+My name is Sedong Hwang and I am a current junior at Brown University. I love solving complex problems, experimenting with frontend development, and teaching! Down below is more information about me:
 
-- 🎯 Working on several side projects
-- 🌱 Looking for a summer 2023 internship in small startups or established companies :)
-- 📚 I love reading, playing basketball, and being around people
-- 😄 Pronouns: he/him
+- 🎯 Working on an exciting side project currently
+- 📚 I love reading, playing basketball, and playing video games
+- 😄 Favorite language is Python :)
 
 - 📫 How to reach me: 
      - Email: sedong_hwang@brown.edu 
