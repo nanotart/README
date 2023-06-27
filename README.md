@@ -1,4 +1,4 @@
-Hello world
+Hello world, 👋🏻
 
 📫 How to reach me: 
 - Email: sedong_hwang@brown.edu 
